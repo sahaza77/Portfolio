@@ -127,3 +127,8 @@ Couleur des éléments de navigations :
 .navbar-toggler {
     background-color: rgba(255, 255, 255, 1);
 }
+
+.card-body{
+    background-color:  whitesmoke;
+    border-radius: 25px;
+}
