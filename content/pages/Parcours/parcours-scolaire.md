@@ -1,37 +1,63 @@
 Title: Parcours scolaire
 
-# Présentation de mon parcours scolaire
+# Mon parcours scolaire & professionnel
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
+<div class="timeline-alt">
 
+  <div class="timeline-alt-item left">
+    <div class="content">
+      <h3>🎓 Bac STMG – Option SIG</h3>
+      <span class="date">2020</span>
+      <p><em>Obtenu au lycée Jules Ferry à Coulommiers.</em></p>
+    </div>
+  </div>
 
+  <div class="timeline-alt-item right">
+    <div class="content">
+      <h3>🏫 DEUST Bureautique et Multimédia</h3>
+      <span class="date">2020 – 2022</span>
+      <p><em>Formation suivie à l'UPEC (Université Paris-Est Créteil).</em></p>
+    </div>
+  </div>
 
-**1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
+  <div class="timeline-alt-item left">
+    <div class="content">
+      <h3>📚 DU Digital U</h3>
+      <span class="date">2022 – 2023</span>
+      <p><em>Effectué à l’Université Gustave Eiffel.</em></p>
+    </div>
+  </div>
 
-- **<u>Options :</u>**
-    - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) → administration réseaux, cybersécurité, cloud, virtualisation.
-    - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
+  <div class="timeline-alt-item right">
+    <div class="content">
+      <h3>💼 Travail – DDPP Melun</h3>
+      <span class="date">Oct. 2023 – Sep. 2024</span>
+      <p><em>1 an d'expérience professionnelle dans la fonction publique.</em></p>
+    </div>
+  </div>
 
+  <div class="timeline-alt-item left">
+    <div class="content">
+      <h3>🧑‍💻 Stage BTS 1ère année</h3>
+      <span class="date">19 mai – 27 juin 2024</span>
+      <p><em>Stage chez <strong>Exagon</strong> (Paris, Nation) – participation à des projets concrets.</em></p>
+    </div>
+  </div>
 
-- **<u>Durée :</u>** 2 ans.
-- **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
+  <div class="timeline-alt-item right">
+    <div class="content">
+      <h3>🎓 BTS SIO – 1ère année</h3>
+      <span class="date">Sep. 2024</span>
+      <p><em>Entrée au lycée Léonard de Vinci à Melun – spécialité SLAM.</em></p>
+    </div>
+  </div>
 
+  <div class="timeline-alt-item left">
+    <div class="content">
+      <h3>🎯 BTS SIO – 2e année</h3>
+      <span class="date">2025</span>
+      <p><em>Formation en cours – développement d’applications et projets métiers.</em></p>
+    </div>
+  </div>
 
-**2. BTS CIEL** (**C**ybersécurité, **I**nformatique et réseaux, **É**lectronique) : Nouvelle filière (remplace une partie du **BTS SN**).
-
-Orienté systèmes numériques, réseaux, électronique et cybersécurité.
-
-- **<u>Débouchés :</u>** technicien réseaux, support, sécurité. Possible poursuite en Bachelor cybersécurité ou BUT.
-
-
-**3. BUT Informatique** (ex-DUT) :
-
-Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
-
-- **<u>Spécialités :</u>** développement, data, systèmes et réseaux, gestion de projets.
-- **<u>Points forts :</u>** pédagogie par projets, bonne réputation auprès des entreprises.
-- **<u>Débouchés :</u>** bac +3 direct, insertion professionnelle ou poursuite en Master/école d’ingénieur.
-
-
-
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications.
+</div>

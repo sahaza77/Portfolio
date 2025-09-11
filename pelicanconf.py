@@ -68,19 +68,17 @@ MENUITEMS = (
             ("Parcours scolaire", "/pages/parcours-scolaire"),
             ("Le BTS SIO", "/pages/bts-sio")
         ),
-        "Découvrez mon parcours scolaire et professionnel.", "primary"
+        "Mon parcours scolaire et professionnel, du lycée au BTS SIO.", "light"
     ),
 
     ("Réalisations", "/pages/realisations", "list-check",
         (
-            ("TP majeurs", "/pages/tp-majeurs"),
+            ("Mes projets", "/pages/mes_projets"),
             ("Stage de 1ère année", "/pages/stage-sio1"),
             ("Stage de 2e année", "/pages/stage-sio2"),
-            ("Projets scolaires", "/pages/projets-scolaires"),
-            ("Projets personnels", "/pages/projets-personnels"),                             # Optionnel
             ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
         ),
-        "Accédez aux projets et TP réalisés pendant ma formation et à mes projets personnels.", "success"
+        "Projets, TP et réalisations perso effectués pendant ma formation.", "light"
      ),
 
     ("Veille techno.", "/ma-veille", "newspaper",
@@ -91,7 +89,7 @@ MENUITEMS = (
         ("Liste des auteurs", "/authors"),
         ("Liste des mots clés", "/tags")
         ),
-        "Consultez les articles de veille technologique que j’ai suivis durant cette année.", "warning"
+        "Sujets tech et articles suivis tout au long de l’année.", "light"
     ),
 
     ("Engagement", "/pages/engagement-etudiant", "person-arms-up", None, "Présention de mon engagement étudiant.", None),    # Optionnel
