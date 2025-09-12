@@ -40,7 +40,7 @@ Title: Parcours scolaire
     <div class="content">
       <h3>🧑‍💻 Stage BTS 1ère année</h3>
       <span class="date">19 mai – 27 juin 2024</span>
-      <p><em>Stage chez <strong>Exagon</strong> (Paris, Nation) – participation à des projets concrets.</em></p>
+      <p><em>Stage chez <strong>Exagon</strong> (Paris, Nation) – participation à des réparations informatiques et téléphoniques</em></p>
     </div>
   </div>
 

@@ -362,9 +362,9 @@ Couleur des éléments de navigations :
   width: 180px;
   height: 180px;
   background-color: white;
-  border: 2px solid #e75480; /* rose thème */
+  border: 2px solid #8d0786; /* rose thème */
   border-radius: 8px;
-  color: #e75480;
+  color: #8d0786;
   font-weight: bold;
   font-size: 1.1rem;
   text-decoration: none;
@@ -373,7 +373,7 @@ Couleur des éléments de navigations :
 }
 
 .project-card:hover {
-  background-color: #e75480;
+  background-color: #8d0786;
   color: white;
   box-shadow: 0 6px 15px rgb(231 84 128 / 0.5);
 }
@@ -381,4 +381,131 @@ Couleur des éléments de navigations :
 .project-name {
   text-align: center;
   padding: 0 10px;
+}
+.stage-sio {
+  max-width: 850px;
+  margin: 50px auto;
+  padding: 35px 45px;
+  background-color: #f9fafb;
+  border: 2px solid #8d0786; /* belle bordure bleue */
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(52, 152, 219, 0.15);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #000000;
+  line-height: 1.7;
+}
+
+.stage-sio h2 {
+  font-size: 2.2rem;
+  margin-bottom: 18px;
+  border-bottom: 3px solid #8d0786;
+  padding-bottom: 8px;
+  color: #000000;
+}
+
+.stage-sio h3 {
+  font-size: 1.5rem;
+  margin-top: 30px;
+  margin-bottom: 12px;
+  color: #000000;
+  border-bottom: 1.5px solid #d6e6fb;
+  padding-bottom: 5px;
+}
+
+.stage-sio h4 {
+  font-size: 1.2rem;
+  margin-top: 22px;
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+.stage-sio p, 
+.stage-sio li {
+  font-size: 1.05rem;
+  margin-bottom: 14px;
+  color: #222425;
+}
+
+.stage-sio ul {
+  padding-left: 25px;
+  margin-bottom: 20px;
+}
+
+.stage-sio li {
+  margin-bottom: 10px;
+}
+
+.stage-sio em {
+  font-style: italic;
+  color: #222425;;
+}
+
+.stage-sio hr {
+  border: none;
+  border-bottom: 1px solid #dbe6f3;
+  margin: 28px 0;
+}
+/* Conteneur principal */
+.hero-container {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #222;
+}
+
+/* Texte animé "Bienvenue sur mon Portfolio" */
+.animated-text {
+  font-size: 3.2rem;
+  font-weight: 700;
+  color: #571653c5;
+  margin-bottom: 10px;
+  letter-spacing: 3px;
+  animation: fadeSlideIn 1.8s ease forwards;
+  opacity: 0;
+}
+
+/* Prénom en dessous */
+.name {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #63175fb6;
+  margin-bottom: 12px;
+  font-style: italic;
+  animation: fadeSlideIn 2.5s ease forwards;
+  opacity: 0;
+}
+
+/* Citation sous le prénom */
+.quote {
+  font-size: 1.25rem;
+  font-style: italic;
+  color: #7f8c8d;
+  border-left: 4px solid #5f1d5da8;
+  padding-left: 15px;
+  margin: 15px auto 30px;
+  max-width: 650px;
+  animation: fadeSlideIn 3.2s ease forwards;
+  opacity: 0;
+}
+
+/* Texte du paragraphe */
+.lead {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #4e4d4d;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* Animation clé */
+@keyframes fadeSlideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

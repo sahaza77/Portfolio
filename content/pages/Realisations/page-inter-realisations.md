@@ -7,7 +7,7 @@ Title: Réalisations
   <div class="parcours-card">
     <h3>Les projets</h3>
     <p><em>Travaux pratiques importants réalisés durant la formation, mettant en œuvre diverses compétences techniques.</em></p>
-    <a href="/pages/tp-majeurs" class="btn">Voir plus</a>
+    <a href="/pages/mes-projets" class="btn">Voir plus</a>
   </div>
 
   <div class="parcours-card">
@@ -20,12 +20,6 @@ Title: Réalisations
     <h3>Stage de seconde année</h3>
     <p><em>Stage approfondi de deuxième année, participation à des projets concrets et collaboration en équipe.</em></p>
     <a href="/pages/stage-sio2" class="btn">Voir plus</a>
-  </div>
-
-  <div class="parcours-card">
-    <h3>Certifications complémentaires</h3>
-    <p><em>Formations et certifications supplémentaires obtenues pour renforcer mes compétences.</em></p>
-    <a href="/pages/certifications-complementaires" class="btn">Voir plus</a>
   </div>
 
 </div>

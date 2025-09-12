@@ -1,18 +1,28 @@
 Title: Stage SIO2
 
-> **<u>FICHE DESCRIPTIVE :</u>**
+<div class="stage-sio">
 
-> <u>**Dates du stage :**</u>
->
-> - **Date début :** XX/01/2026
-> - **Date fin :** XX/01/2026
->
-> **Entreprise :** Nom de l'entreprise
+  <h2>Stage BTS SIO - Deuxième année</h2>
+  <p><em>Stage prévu en 2026, pas encore réalisé.</em></p>
 
+  <hr>
 
+  <h3>Fiche descriptive</h3>
+  <p>Le stage de deuxième année est à venir. Dès sa réalisation, les détails et missions seront ajoutés ici.</p>
 
-# Présentation de l'entreprise/société :
+  <hr>
 
+  <h3>Présentation de l'entreprise</h3>
+  <p>Informations sur l'entreprise du stage seront disponibles après la réalisation du stage.</p>
 
+  <hr>
 
-# Missions & tâches réalisés : 
+  <h3>Missions et tâches réalisées</h3>
+  <p>Aucune mission réalisée pour le moment.</p>
+
+  <hr>
+
+  <h3>Bilan du stage</h3>
+  <p>Le bilan sera rédigé à l’issue du stage.</p>
+
+</div>

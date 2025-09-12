@@ -73,10 +73,9 @@ MENUITEMS = (
 
     ("Réalisations", "/pages/realisations", "list-check",
         (
-            ("Mes projets", "/pages/mes_projets"),
+            ("Mes projets", "/pages/mes-projets"),
             ("Stage de 1ère année", "/pages/stage-sio1"),
             ("Stage de 2e année", "/pages/stage-sio2"),
-            ("Certifications complémentaires", "/pages/certifications-complementaires") # Optionnel
         ),
         "Projets, TP et réalisations perso effectués pendant ma formation.", "light"
      ),
@@ -91,9 +90,6 @@ MENUITEMS = (
         ),
         "Sujets tech et articles suivis tout au long de l’année.", "light"
     ),
-
-    ("Engagement", "/pages/engagement-etudiant", "person-arms-up", None, "Présention de mon engagement étudiant.", None),    # Optionnel
-
 )
 
 MAINITEMS = MENUITEMS[1:4] # Récupération de PARCOURS, REALISATION & VEILLE pour afficage dans index.html
